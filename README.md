@@ -45,3 +45,10 @@ Uygulamamızı kullanarak aşağıdaki koşulları kabul etmiş sayılırsınız
 
   * **[Gizlilik Politikası](https://alierensevinc.github.io/deprem-bilgi-website/privacy-policy)**
   * **[Kullanım Koşulları](https://alierensevinc.github.io/deprem-bilgi-website/terms-and-conditions)**
+
+<h2>Destek / Support</h2>
+<p>
+  Uygulama ile ilgili herhangi bir sorun yaşarsanız veya geri bildirimde bulunmak isterseniz, 
+  lütfen <a href="mailto:sevinc.aeren@gmail.com">sevinc.aeren@gmail.com</a> adresinden 
+  bizimle iletişime geçin.
+</p>
